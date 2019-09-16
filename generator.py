@@ -12,7 +12,7 @@ while True:
             print("NO            : "+str(details))
             binusian     = input("BINUSIAN ID   : ")
             email        = input("NAME          : ")
-            class_id     = "B3AC"
+            class_id     = "A"
             # input("CLASS(A|B|C)  : ")
             link         = input("LINK          : ")
             ok = input("CHECK(Y|N)")
@@ -22,12 +22,18 @@ while True:
         s.write("<tr>\n\t<td>"+str(details)+"</td>")
         s.write("\n\t<td>"+binusian+"</td>")
         s.write("\n\t<td>"+email+"</td>")
-        s.write("\n\t<td>B2"+class_id+"C</td>")
+        s.write("\n\t<td>B3"+class_id+"C</td>")
         s.write("\n\t<td><a href=\""+link+"\">CLICK HERE</a></td>")
         s.write("\n</tr>\n")
         s.write("<!--SPLIT-->\n<!--\n"+ str(details) +"\n-->\n<!--SPLIT-->")
         s.write(data[2])
         s.close()
+        os.system("git add .")
+        input()
+        os.system("git commit -m 'commit number "+str(details)+"'")
+        input()
+        os.system("git push")
+        input()
     elif inp == "1":
         os.system("index.html")
     else:
