@@ -29,11 +29,11 @@ while True:
         s.write(data[2])
         s.close()
         os.system("git add .")
-        input()
+        #input()
         os.system("git commit -m \""+str(details)+"\"")
-        input()
+        #input()
         os.system("git push")
-        input()
+        #input()
     elif inp == "1":
         os.system("index.html")
     else:

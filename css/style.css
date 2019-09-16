@@ -82,7 +82,7 @@ a{
     content: "BINUSIAN ID";
   }
   table tbody tr td:nth-child(3):before {
-    content: "EMAIL";
+    content: "NAME";
   }
   table tbody tr td:nth-child(4):before {
     content: "CLASS";
