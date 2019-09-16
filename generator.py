@@ -30,7 +30,7 @@ while True:
         s.close()
         os.system("git add .")
         input()
-        os.system("git commit -m 'commit number "+str(details)+"'")
+        os.system("git commit -m \""+str(details)+"\"")
         input()
         os.system("git push")
         input()
