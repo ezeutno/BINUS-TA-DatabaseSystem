@@ -12,7 +12,7 @@ while True:
             print("NO            : "+str(details))
             binusian     = input("BINUSIAN ID   : ")
             email        = input("NAME          : ")
-            class_id     = "A"
+            class_id     = "B"
             # input("CLASS(A|B|C)  : ")
             link         = input("LINK          : ")
             ok = input("CHECK(Y|N)")
