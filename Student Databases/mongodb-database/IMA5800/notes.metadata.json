@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"IMA5800.notes"}],"uuid":"1fa2efccac0e43b39a71f40ee1ff9344"}

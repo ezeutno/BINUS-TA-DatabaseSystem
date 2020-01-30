@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"MIC7424.Targets"}],"uuid":"acc1ca2de17f47c9994af899878960a9"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"CHA7001.MyFamily"}],"uuid":"c894ff28e3dc431aaec627234e826774"}

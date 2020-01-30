@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"fio.myCollection"}],"uuid":"a6b4ed190b4d4489a694340fb28fdc54"}

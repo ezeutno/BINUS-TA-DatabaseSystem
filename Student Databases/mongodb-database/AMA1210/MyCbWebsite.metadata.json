@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"AMA1210.MyCbWebsite"}],"uuid":"b75eea65a5e24443b1fa44deb65b912b"}

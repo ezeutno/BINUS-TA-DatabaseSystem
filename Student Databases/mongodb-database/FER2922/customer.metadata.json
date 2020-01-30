@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"FER2922.customer"}],"uuid":"454cf470dc6743a7a1d18ac726a51f4b"}

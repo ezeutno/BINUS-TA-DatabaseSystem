@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"MIL7531.Store"}],"uuid":"04a61d96de9f49548e80945570f55966"}

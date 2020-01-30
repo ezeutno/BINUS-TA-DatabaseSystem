@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"SAL8143.notes"}],"uuid":"2b4d2af6b99046a6994de29205085f08"}
